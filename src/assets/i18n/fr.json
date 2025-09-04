@@ -1,53 +1,4 @@
 {
-  "cv": {
-    "title": "Ingénieur Full Stack Senior",
-    "summary": "Avec plus de 10 ans d'expérience, j'ai acquis une expertise dans la conception, la construction et la maintenance d'applications évolutives. Mon ensemble de compétences comprend Java/Spring Boot, Angular et différentes bases de données, excellant dans les microservices, le développement d'API et les pratiques DevOps. J'ai contribué à diverses industries, livrant des solutions de haute qualité axées sur l'utilisateur qui s'intègrent parfaitement avec des systèmes complexes.",
-    "experiences": {
-      "proxymed": {
-        "role": "Ingénieur Full Stack Senior",
-        "projects": "Drivebook / Invoicify / ProxyServices / MediMS",
-        "description": "Dirigé l'analyse, la construction et la maintenance de plusieurs applications, intégration avec différentes API tierces"
-      },
-      "engie": {
-        "role": "Ingénieur Full Stack",
-        "projects": "APIs B2B et B2C / Site officiel Engie",
-        "description": "Construction/Mise à jour de microservices avec intégration SAP et SalesForce, s'assurant que tous les systèmes sont connectés et communiquent correctement via SOAP/REST/Kafka"
-      },
-      "spf": {
-        "role": "Ingénieur Full Stack Senior",
-        "projects": "API de documents légaux / Système de casier judiciaire (CRS)",
-        "description": "Dirigé le développement d'une plateforme de documents intégrée avec SharePoint, supervisant l'architecture, l'implémentation et le déploiement / Introduire de nouvelles fonctionnalités et corriger les problèmes de performance dans le CRS"
-      },
-      "vts": {
-        "role": "Développeur Full Stack",
-        "projects": "Planificateur de l'Escaut occidental (WESP)",
-        "description": "Développement d'endpoints REST et d'une nouvelle API intermédiaire pour collecter des données météorologiques et de navigation à partir de divers systèmes connectés, et présentation de ces données sur une plateforme de supervision construite avec Angular"
-      },
-      "parliament": {
-        "role": "Ingénieur Full Stack Senior",
-        "projects": "Outil de gestion des résultats d'élection / Système d'information de gestion de la qualité",
-        "description": "Dirigé la mise à niveau d'une application Java héritée pour supporter les nouveaux standards REST, ajouter de nouveaux endpoints REST et présenter le résultat des calculs via une application Angular nouvellement créée"
-      },
-      "total": {
-        "role": "Ingénieur Logiciel",
-        "projects": "Système de gestion de processeur de cartes",
-        "description": "Analyser et développer de nouvelles exigences et s'assurer que tous les systèmes fonctionnent efficacement"
-      },
-      "engie_morocco": {
-        "role": "Ingénieur Logiciel",
-        "projects": "APIs B2B et B2C",
-        "description": "Analyse et développement selon les exigences métier de différents endpoints REST avec intégration SAP et Salesforce via des services SOAP"
-      },
-      "credit_agricole": {
-        "role": "Ingénieur Logiciel",
-        "projects": "Solution de gestion de crédit (CMS) / Système de contrôle d'achat de factures (ECAF) / Industrialisation des données de gestion de projet",
-        "description": "Analyser, modéliser et développer des fonctionnalités selon les exigences métier, Intégration de flux de données provenant de systèmes ABAP, Intégration de données provenant de différents systèmes dans une plateforme de prise de décision unique"
-      }
-    },
-    "education": {
-      "degree": "Ingénierie des Systèmes Informatiques et Réseaux"
-    }
-  },
   "nav": {
     "about": "À Propos",
     "experience": "Expérience",
@@ -66,30 +17,68 @@
     "tools": "Outils",
     "languages": "Langues"
   },
-  "languages": {
-    "english": "Anglais",
-    "french": "Français",
-    "dutch": "Néerlandais",
-    "bilingual": "Bilingue",
-    "native": "Natif",
-    "novice": "Débutant"
+  "common": {
+    "years_experience": "années d'expérience",
+    "projects": "Projets",
+    "role_description": "Description du rôle",
+    "technologies": "Technologies"
   },
   "contact": {
     "phone": "Téléphone",
     "email": "Email",
     "location": "Localisation",
-    "cta_title": "Prêt à collaborer ?",
-    "cta_description": "Je suis toujours ouvert à discuter de nouvelles opportunités passionnantes et de projets innovants.",
-    "get_in_touch": "Contactez-moi"
-  },
-  "common": {
-    "projects": "Projets",
-    "role_description": "Description du rôle",
-    "technologies": "Technologies",
-    "years_experience": "ans d'expérience"
+    "cta_title": "Prêt à Collaborer ?",
+    "cta_description": "Discutons de votre prochain projet et voyons comment je peux vous aider à atteindre vos objectifs.",
+    "get_in_touch": "Prenons Contact"
   },
   "footer": {
-    "copyright": "2025",
+    "copyright": "Droits d'auteur",
     "rights_reserved": "Tous droits réservés"
+  },
+  "personalInfo": {
+    "title": "Ingénieur Full Stack Senior",
+    "summary": "Avec plus de 10 ans d'expérience, j'ai acquis une expertise dans la conception, la construction et la maintenance d'applications évolutives. Mon ensemble de compétences comprend Java/Spring Boot, Angular et différentes bases de données, excellant dans les microservices, le développement d'API et les pratiques DevOps. J'ai contribué à diverses industries, livrant des solutions de haute qualité et centrées sur l'utilisateur qui s'intègrent parfaitement avec des systèmes complexes."
+  },
+  "experience": {
+    "roles": {
+      "lead_engineer": "Ingénieur Full Stack Principal",
+      "full_stack_engineer": "Ingénieur Full Stack",
+      "lead_full_stack_engineer": "Ingénieur Full Stack Principal",
+      "full_stack_developer": "Développeur Full Stack",
+      "software_engineer": "Ingénieur Logiciel"
+    },
+    "projects": {
+      "drivebook_invoicing": "Drivebook / Facturation / ProxyServices / MediMS",
+      "b2b_b2c_apis": "APIs B2B et B2C / Site Web Officiel Engie",
+      "legal_documents_api": "Documents légaux API / Système d'enregistrement criminel (CRS)",
+      "weather_partner": "Partenaire météo occidental (WESP)",
+      "election_result": "Gestion des résultats d'élection",
+      "card_processor": "Processeur de cartes",
+      "credit_management": "Solution de gestion de crédit (CMS) / Système de contrôle d'achat de factures (ECAF) / Industrialisation de la gestion de données de projet"
+    },
+    "descriptions": {
+      "lead_engineer_desc": "Diriger l'analyse, la construction et la maintenance de plusieurs applications, intégration avec différentes APIs tierces",
+      "full_stack_engineer_desc": "Construction/Mise à jour d'applications de microservices avec intégration SAP & SalesForce, garantir que tous les systèmes sont connectés et communiquent correctement via SOAP/REST/Kafka.",
+      "lead_full_stack_engineer_desc": "Diriger le développement d'une plateforme de documents intégrée avec SharePoint, superviser l'architecture, l'implémentation et le déploiement / Introduire de nouvelles fonctionnalités et corriger les problèmes de performance dans le CRS",
+      "weather_developer_desc": "Développer des points de terminaison REST et une nouvelle API intermédiaire pour collecter des données météorologiques et de navigation de divers systèmes connectés, et présenter ces données sur une plateforme de supervision pour informer les utilisateurs finaux.",
+      "election_engineer_desc": "Diriger la mise à niveau d'une application héritée pour supporter de nouveaux points de terminaison REST et présenter les résultats de calculs via une application angulaire nouvellement créée.",
+      "software_engineer_desc": "Analyser et développer de nouvelles exigences et s'assurer que tous les systèmes sont opérationnels et fonctionnent efficacement",
+      "credit_engineer_desc": "Analyser, modéliser et développement de fonctionnalités selon les exigences métier de différents points de terminaison REST avec intégration SAP et Salesforce via des services SOAP."
+    }
+  },
+  "education": {
+    "degrees": {
+      "computer_systems": "Systèmes Informatiques et Ingénierie Réseau"
+    }
+  },
+  "languages": {
+    "english": "Anglais",
+    "french": "Français",
+    "dutch": "Néerlandais",
+    "levels": {
+      "bilingual": "Bilingue",
+      "native": "Natif",
+      "novice": "Débutant"
+    }
   }
 }

@@ -1,53 +1,4 @@
 {
-  "cv": {
-    "title": "Senior Full Stack Engineer",
-    "summary": "With +10 years of experience, I have gained expertise in designing, building, and maintaining scalable applications. My skill set includes Java/Spring Boot, Angular and different databases, excelling in microservices, API development, and DevOps practices. I have contributed to diverse industries, delivering high-quality, user-focused solutions that integrate seamlessly with complex systems.",
-    "experiences": {
-      "proxymed": {
-        "role": "Lead Full Stack Engineer",
-        "projects": "Drivebook / Invoicify / ProxyServices / MediMS",
-        "description": "Led the analysis, build and maintenance of several applications, integration with different third-party APIs"
-      },
-      "engie": {
-        "role": "Full Stack Engineer",
-        "projects": "B2B and B2C APIs / Official Engie Website",
-        "description": "Building/Updating Microservices with SAP & SalesForce integration, ensuring all systems are connected and communicating correctly via SOAP/REST/Kafka"
-      },
-      "spf": {
-        "role": "Lead Full Stack Engineer",
-        "projects": "Legal documents API / Criminal Record system (CRS)",
-        "description": "Led the development of a documents platform integrated with SharePoint, overseeing architecture, implementation, and deployment / Introduce new features and fix performance issues in the CRS"
-      },
-      "vts": {
-        "role": "Full Stack Developer",
-        "projects": "Western Scheldt Planner (WESP)",
-        "description": "Developing REST endpoints and a new intermediate API to collect weather and navigation data from various connected systems, and presenting this data on a supervisory platform built with Angular"
-      },
-      "parliament": {
-        "role": "Lead Full Stack Engineer",
-        "projects": "Election result management tool / Quality Management information system",
-        "description": "Led the upgrade of a legacy Java application to support new REST standards, add new REST endpoints and presenting the result of calculations via a newly created angular application"
-      },
-      "total": {
-        "role": "Software Engineer",
-        "projects": "Card processor management system",
-        "description": "Analyse & develop new requirements and ensure that all the systems are up and running efficiently"
-      },
-      "engie_morocco": {
-        "role": "Software Engineer",
-        "projects": "B2B & B2C APIs",
-        "description": "Analysis and development according to business requirements of different REST endpoints with SAP and Salesforce integration via SOAP services"
-      },
-      "credit_agricole": {
-        "role": "Software Engineer",
-        "projects": "Credit management solution (CMS) / Invoice purchase control system (ECAF) / Industrialisation of project management data",
-        "description": "Analyse, modeling, and development of features according to business requirements, Integration of data flows coming from ABAP systems, Integration of data coming from different systems into a single decision making platform"
-      }
-    },
-    "education": {
-      "degree": "Computer Systems & Network Engineering"
-    }
-  },
   "nav": {
     "about": "About",
     "experience": "Experience",
@@ -66,30 +17,68 @@
     "tools": "Tools",
     "languages": "Languages"
   },
-  "languages": {
-    "english": "English",
-    "french": "French",
-    "dutch": "Dutch",
-    "bilingual": "Bilingual",
-    "native": "Native",
-    "novice": "Novice"
+  "common": {
+    "years_experience": "years of experience",
+    "projects": "Projects",
+    "role_description": "Role Description",
+    "technologies": "Technologies"
   },
   "contact": {
     "phone": "Phone",
     "email": "Email",
     "location": "Location",
-    "cta_title": "Ready to collaborate?",
-    "cta_description": "I'm always open to discussing exciting new opportunities and innovative projects.",
+    "cta_title": "Ready to Collaborate?",
+    "cta_description": "Let's discuss your next project and see how I can help you achieve your goals.",
     "get_in_touch": "Get In Touch"
   },
-  "common": {
-    "projects": "Projects",
-    "role_description": "Role Description",
-    "technologies": "Technologies",
-    "years_experience": "years of experience"
-  },
   "footer": {
-    "copyright": "2025",
+    "copyright": "Copyright",
     "rights_reserved": "All rights reserved"
+  },
+  "personalInfo": {
+    "title": "Senior Full Stack Engineer",
+    "summary": "With 10+ years of experience, I have gained expertise in designing, building, and maintaining scalable applications. My skill set includes Java/Spring Boot, Angular and different databases, excelling in microservices, API development, and DevOps practices. I have contributed to diverse industries, delivering high-quality, user-focused solutions that integrate seamlessly with complex systems."
+  },
+  "experience": {
+    "roles": {
+      "lead_engineer": "Lead Full Stack Engineer",
+      "full_stack_engineer": "Full Stack Engineer",
+      "lead_full_stack_engineer": "Lead Full Stack Engineer",
+      "full_stack_developer": "Full Stack Developer",
+      "software_engineer": "Software Engineer"
+    },
+    "projects": {
+      "drivebook_invoicing": "Drivebook / Invoicing / ProxyServices / MediMS",
+      "b2b_b2c_apis": "B2B and B2C APIs / Official Engie Website",
+      "legal_documents_api": "Legal documents API / Criminal Record system(CRS)",
+      "weather_partner": "Western weather Partner (WESP)",
+      "election_result": "Election result management",
+      "card_processor": "Card processor",
+      "credit_management": "Credit management solution (CMS) / Invoice purchase control system (ECAF) / Industrialisation of project data management"
+    },
+    "descriptions": {
+      "lead_engineer_desc": "Led the analysis, build and maintenance of several applications, integration with different third-party APIs",
+      "full_stack_engineer_desc": "Building/Updating microservices applications with SAP & SalesForce integration, ensuring all systems are connected and communicating correctly via SOAP/ REST/ Kafka.",
+      "lead_full_stack_engineer_desc": "Led the development of a documents platform integrated with SharePoint, overseeing architecture, implementation, and deployment / Introduce new features and fix performance issues in the CRS",
+      "weather_developer_desc": "Developing REST endpoints and a new intermediate API to collect weather and navigation data from various connected systems, and presenting this data on a supervisory platform to inform end users.",
+      "election_engineer_desc": "Led the upgrade of a legacy application to support new REST endpoints and presenting the result of calculations via a newly created angular application.",
+      "software_engineer_desc": "Analyse & develop new requirements and ensure that all the systems are up and running efficiently",
+      "credit_engineer_desc": "Analyse, modeling, and development of features according to business requirements of different REST endpoints with SAP and Salesforce integration via SOAP services."
+    }
+  },
+  "education": {
+    "degrees": {
+      "computer_systems": "Computer Systems & Network Engineering"
+    }
+  },
+  "languages": {
+    "english": "English",
+    "french": "French",
+    "dutch": "Dutch",
+    "levels": {
+      "bilingual": "Bilingual",
+      "native": "Native",
+      "novice": "Novice"
+    }
   }
 }

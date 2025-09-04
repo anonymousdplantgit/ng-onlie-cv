@@ -1,22 +1,20 @@
-import { Education, Experience } from "./components/cv.component";
-
 export const personalInfo = {
   name: "Souhail AIT SAID",
-  title: "cv.title",
+  title: "personalInfo.title",
+  email: "souhailaitsaid@gmail.com",
   phone: "+32 470 45 71 66",
-  email: "Souhailaitsaid@gmail.com",
   address: "1120, Brussels, Belgium",
-  summary: "cv.summary",
+  summary: "personalInfo.summary",
 };
 
-export const experiences: Experience[] = [
+export const experiences = [
   {
-    period: "2024-09 - ongoing",
+    period: "2024-09 - Present",
     company: "Proxymed",
-    role: "cv.experiences.proxymed.role",
+    role: "experience.roles.lead_engineer",
     location: "Brussels, Belgium",
-    projects: "cv.experiences.proxymed.projects",
-    roleDescription: "cv.experiences.proxymed.description",
+    projects: "experience.projects.drivebook_invoicing",
+    roleDescription: "experience.descriptions.lead_engineer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
@@ -29,7 +27,7 @@ export const experiences: Experience[] = [
       "Swagger",
       "Kubernetes",
       "Docker",
-      "OpenShift",
+      "MapStruct",
       "Maven",
       "JUnit",
     ],
@@ -37,10 +35,10 @@ export const experiences: Experience[] = [
   {
     period: "2021-02 - 2024-08",
     company: "Engie Electrabel M&S",
-    role: "cv.experiences.engie.role",
+    role: "experience.roles.full_stack_engineer",
     location: "Brussels, Belgium",
-    projects: "cv.experiences.engie.projects",
-    roleDescription: "cv.experiences.engie.description",
+    projects: "experience.projects.b2b_b2c_apis",
+    roleDescription: "experience.descriptions.full_stack_engineer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
@@ -64,21 +62,21 @@ export const experiences: Experience[] = [
   {
     period: "2019-11 - 2021-01",
     company: "SPF Finance/Justice",
-    role: "cv.experiences.spf.role",
+    role: "experience.roles.lead_full_stack_engineer",
     location: "Brussels, Belgium",
-    projects: "cv.experiences.spf.projects",
-    roleDescription: "cv.experiences.spf.description",
+    projects: "experience.projects.legal_documents_api",
+    roleDescription: "experience.descriptions.lead_full_stack_engineer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
       "JEE",
       "Wildfly",
-      "JSF/Primefaces",
+      "JSF/PrimeFaces",
       "Angular",
       "TypeScript",
       "RxJS",
       "Docker",
-      "Gitlab",
+      "GitLab",
       "Kubernetes",
       "Sonarqube",
       "IBM DB2",
@@ -94,10 +92,10 @@ export const experiences: Experience[] = [
   {
     period: "2019-02 - 2019-11",
     company: "VTS-Scheldt",
-    role: "cv.experiences.vts.role",
+    role: "experience.roles.full_stack_developer",
     location: "Brussels, Belgium",
-    projects: "cv.experiences.vts.projects",
-    roleDescription: "cv.experiences.vts.description",
+    projects: "experience.projects.weather_partner",
+    roleDescription: "experience.descriptions.weather_developer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
@@ -107,7 +105,7 @@ export const experiences: Experience[] = [
       "REST",
       "Angular",
       "TypeScript",
-      "RxJs",
+      "RxJS",
       "Bootstrap",
       "Swagger",
       "Jenkins",
@@ -119,10 +117,10 @@ export const experiences: Experience[] = [
   {
     period: "2018-03 - 2019-01",
     company: "European Parliament",
-    role: "cv.experiences.parliament.role",
+    role: "experience.roles.lead_full_stack_engineer",
     location: "Brussels, Belgium",
-    projects: "cv.experiences.parliament.projects",
-    roleDescription: "cv.experiences.parliament.description",
+    projects: "experience.projects.election_result",
+    roleDescription: "experience.descriptions.election_engineer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
@@ -140,10 +138,10 @@ export const experiences: Experience[] = [
   {
     period: "2017-10 - 2018-02",
     company: "Total Energies",
-    role: "cv.experiences.total.role",
+    role: "experience.roles.software_engineer",
     location: "Rabat, Morocco",
-    projects: "cv.experiences.total.projects",
-    roleDescription: "cv.experiences.total.description",
+    projects: "experience.projects.card_processor",
+    roleDescription: "experience.descriptions.software_engineer_desc",
     technologies: [
       "Java",
       "Hibernate",
@@ -160,10 +158,10 @@ export const experiences: Experience[] = [
   {
     period: "2016-07 - 2017-09",
     company: "Engie Electrabel M&S",
-    role: "cv.experiences.engie_morocco.role",
+    role: "experience.roles.software_engineer",
     location: "Rabat, Morocco",
-    projects: "cv.experiences.engie_morocco.projects",
-    roleDescription: "cv.experiences.engie_morocco.description",
+    projects: "experience.projects.credit_management",
+    roleDescription: "experience.descriptions.credit_engineer_desc",
     technologies: [
       "Java/SpringBoot",
       "Hibernate/JPA",
@@ -177,17 +175,17 @@ export const experiences: Experience[] = [
   {
     period: "2015-04 - 2016-06",
     company: "Crédit Agricole L&F",
-    role: "cv.experiences.credit_agricole.role",
+    role: "experience.roles.software_engineer",
     location: "Rabat, Morocco",
-    projects: "cv.experiences.credit_agricole.projects",
-    roleDescription: "cv.experiences.credit_agricole.description",
+    projects: "experience.projects.credit_management",
+    roleDescription: "experience.descriptions.credit_engineer_desc",
     technologies: [
       "Java",
       "JPA/Hibernate",
       "Spring",
       "Spring MVC",
       "Spring batch",
-      "Thymleaf",
+      "Thymeleaf",
       "JSP/JSTL",
       "Struts",
       "JMS",
@@ -204,10 +202,10 @@ export const experiences: Experience[] = [
   },
 ];
 
-export const education: Education[] = [
+export const education = [
   {
     period: "2010 - 2015",
-    degree: "cv.education.degree",
+    degree: "education.degrees.computer_systems",
     school: "EMSI Marrakech",
   },
 ];
@@ -215,18 +213,48 @@ export const education: Education[] = [
 export const skills = {
   technical: [
     "Java / Spring boot",
-    "Angular/ VueJs / Ionic",
-    "JPA / Hibernate / SQL",
     "SOAP / Rest API",
-    "Kubernetes / Docker",
+    "JPA / Hibernate / SQL",
     "Kafka",
+    "Kubernetes / Docker",
+    "Angular/ VueJs / Ionic",
+    "Agile - Scrum",
+    "Databases",
+    "Maven",
   ],
-  methodologies: ["Agile - Scrum", "DDD", "EDA"],
-  tools: ["Maven", "Git/GitLab", "Jenkins", "Azure DevOps", "Sonarqube"],
+  methodologies: [
+    "Agile Development",
+    "Scrum Framework",
+    "Test-Driven Development",
+    "Domain-Driven Design",
+    "Event-Driven Architecture",
+    "Microservices Architecture",
+    "DevOps Practices",
+    "Continuous Integration",
+  ],
+  tools: [
+    "Git / GitLab / GitHub",
+    "Docker / Kubernetes",
+    "Jenkins / Azure DevOps",
+    "SonarQube",
+    "IntelliJ IDEA",
+    "Visual Studio Code",
+    "Postman / Swagger",
+    "JIRA / Confluence",
+  ],
 };
 
 export const languages = [
-  { name: "cv.languages.english", level: "cv.languages.bilingual" },
-  { name: "cv.languages.french", level: "cv.languages.native" },
-  { name: "cv.languages.dutch", level: "cv.languages.novice" },
+  {
+    name: "languages.english",
+    level: "languages.levels.bilingual",
+  },
+  {
+    name: "languages.french",
+    level: "languages.levels.native",
+  },
+  {
+    name: "languages.dutch",
+    level: "languages.levels.novice",
+  },
 ];

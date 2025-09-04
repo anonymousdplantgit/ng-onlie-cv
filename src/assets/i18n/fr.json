@@ -1,0 +1,95 @@
+{
+  "cv": {
+    "title": "Ingénieur Full Stack Senior",
+    "summary": "Avec plus de 10 ans d'expérience, j'ai acquis une expertise dans la conception, la construction et la maintenance d'applications évolutives. Mon ensemble de compétences comprend Java/Spring Boot, Angular et différentes bases de données, excellant dans les microservices, le développement d'API et les pratiques DevOps. J'ai contribué à diverses industries, livrant des solutions de haute qualité axées sur l'utilisateur qui s'intègrent parfaitement avec des systèmes complexes.",
+    "experiences": {
+      "proxymed": {
+        "role": "Ingénieur Full Stack Senior",
+        "projects": "Drivebook / Invoicify / ProxyServices / MediMS",
+        "description": "Dirigé l'analyse, la construction et la maintenance de plusieurs applications, intégration avec différentes API tierces"
+      },
+      "engie": {
+        "role": "Ingénieur Full Stack",
+        "projects": "APIs B2B et B2C / Site officiel Engie",
+        "description": "Construction/Mise à jour de microservices avec intégration SAP et SalesForce, s'assurant que tous les systèmes sont connectés et communiquent correctement via SOAP/REST/Kafka"
+      },
+      "spf": {
+        "role": "Ingénieur Full Stack Senior",
+        "projects": "API de documents légaux / Système de casier judiciaire (CRS)",
+        "description": "Dirigé le développement d'une plateforme de documents intégrée avec SharePoint, supervisant l'architecture, l'implémentation et le déploiement / Introduire de nouvelles fonctionnalités et corriger les problèmes de performance dans le CRS"
+      },
+      "vts": {
+        "role": "Développeur Full Stack",
+        "projects": "Planificateur de l'Escaut occidental (WESP)",
+        "description": "Développement d'endpoints REST et d'une nouvelle API intermédiaire pour collecter des données météorologiques et de navigation à partir de divers systèmes connectés, et présentation de ces données sur une plateforme de supervision construite avec Angular"
+      },
+      "parliament": {
+        "role": "Ingénieur Full Stack Senior",
+        "projects": "Outil de gestion des résultats d'élection / Système d'information de gestion de la qualité",
+        "description": "Dirigé la mise à niveau d'une application Java héritée pour supporter les nouveaux standards REST, ajouter de nouveaux endpoints REST et présenter le résultat des calculs via une application Angular nouvellement créée"
+      },
+      "total": {
+        "role": "Ingénieur Logiciel",
+        "projects": "Système de gestion de processeur de cartes",
+        "description": "Analyser et développer de nouvelles exigences et s'assurer que tous les systèmes fonctionnent efficacement"
+      },
+      "engie_morocco": {
+        "role": "Ingénieur Logiciel",
+        "projects": "APIs B2B et B2C",
+        "description": "Analyse et développement selon les exigences métier de différents endpoints REST avec intégration SAP et Salesforce via des services SOAP"
+      },
+      "credit_agricole": {
+        "role": "Ingénieur Logiciel",
+        "projects": "Solution de gestion de crédit (CMS) / Système de contrôle d'achat de factures (ECAF) / Industrialisation des données de gestion de projet",
+        "description": "Analyser, modéliser et développer des fonctionnalités selon les exigences métier, Intégration de flux de données provenant de systèmes ABAP, Intégration de données provenant de différents systèmes dans une plateforme de prise de décision unique"
+      }
+    },
+    "education": {
+      "degree": "Ingénierie des Systèmes Informatiques et Réseaux"
+    }
+  },
+  "nav": {
+    "about": "À Propos",
+    "experience": "Expérience",
+    "skills": "Compétences",
+    "contact": "Contact"
+  },
+  "sections": {
+    "experience": "Expérience Professionnelle",
+    "skills": "Compétences & Formation",
+    "education": "Formation",
+    "contact": "Me Contacter"
+  },
+  "skills": {
+    "technical": "Compétences Techniques",
+    "methodologies": "Méthodologies",
+    "tools": "Outils",
+    "languages": "Langues"
+  },
+  "languages": {
+    "english": "Anglais",
+    "french": "Français",
+    "dutch": "Néerlandais",
+    "bilingual": "Bilingue",
+    "native": "Natif",
+    "novice": "Débutant"
+  },
+  "contact": {
+    "phone": "Téléphone",
+    "email": "Email",
+    "location": "Localisation",
+    "cta_title": "Prêt à collaborer ?",
+    "cta_description": "Je suis toujours ouvert à discuter de nouvelles opportunités passionnantes et de projets innovants.",
+    "get_in_touch": "Contactez-moi"
+  },
+  "common": {
+    "projects": "Projets",
+    "role_description": "Description du rôle",
+    "technologies": "Technologies",
+    "years_experience": "ans d'expérience"
+  },
+  "footer": {
+    "copyright": "2025",
+    "rights_reserved": "Tous droits réservés"
+  }
+}

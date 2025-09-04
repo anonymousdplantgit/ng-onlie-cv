@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "language": "Taal",
+    "experience": "Ervaring",
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over Ons",
+    "portfolio": "Onze Diensten",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Uw Vertrouwde",
+    "titleHighlight": "Auto",
+    "titleEnd": "Partner",
+    "description": "Volledige autoverzorging waar u het nodig heeft. Of u nu uw voertuig naar onze volledig uitgeruste garage brengt of een van onze deskundige monteurs naar u laat komen, wij zorgen voor u.",
+    "getStarted": "Service Boeken",
+    "viewWork": "Onze Diensten",
+    "yearsOfExperience": "Jaar Ervaring",
+    "coreExpertise": "Onze Expertise",
+    "skills": {
+      "diagnostics": "Geavanceerde Diagnostiek",
+      "maintenance": "Preventief Onderhoud",
+      "emergencyRepairs": "Noodreparaties",
+      "mobileService": "Mobiele Service",
+      "engineRepair": "Motorreparatie",
+      "electrical": "Elektrische Systemen"
+    },
+    "serviceAreas": {
+      "mobile": "Mobiele Service",
+      "garage": "Garage Service"
+    }
+  },
+  "services": {
+    "block": {
+      "SERVICE_AREA": "Servicegebied: Brussel & 100km Straal",
+      "SERVICE_AREA_DESCRIPTION": "Wij bieden zowel mobiele als garage diensten in heel Brussel en omliggende gebieden. Professionele autozorg waar u bent, wanneer u het nodig heeft.",
+      "BOOK_SERVICE_NOW": "Service Boeken",
+      "LEARN_MORE_ABOUT_US": "Meer Over Ons Leren"
+    },
+    "title": "Onze Diensten",
+    "description": "Professionele autoservices ontworpen om uw voertuig veilig, betrouwbaar en optimaal presteerend te houden",
+    "mobileService": {
+      "title": "Mobiele Autoservice",
+      "description": "Onze deskundige monteurs komen naar uw locatie met professionele gereedschappen en uitrusting. Perfect voor routineonderhoud, kleine reparaties en diagnostiek bij u thuis of op kantoor."
+    },
+    "garageService": {
+      "title": "Garage Service",
+      "description": "Volledige autoreparatieservice in onze volledig uitgeruste garage. Ideaal voor grote reparaties, complexe diagnostiek en diensten die gespecialiseerde uitrusting vereisen."
+    },
+    "maintenance": {
+      "title": "Preventief Onderhoud",
+      "description": "Reguliere onderhoudsdiensten inclusief olie verversen, filter vervangingen, remcontroles en multi-punt inspecties om kostbare reparaties te voorkomen."
+    },
+    "diagnostics": {
+      "title": "Geavanceerde Diagnostiek",
+      "description": "State-of-the-art computerdiagnostiek om problemen snel en nauwkeurig te identificeren. We gebruiken professionele gereedschappen om motor-, transmissie- en elektrische problemen te diagnosticeren."
+    },
+    "emergencyRepairs": {
+      "title": "Nood Pechhulp",
+      "description": "24/7 nood pechhulp voor pech, lekke banden, accu hulp en sleepservice. We zijn er wanneer u ons het meest nodig heeft."
+    },
+    "specializedRepairs": {
+      "title": "Gespecialiseerde Reparaties",
+      "description": "Deskundige reparatieservice voor remmen, ophanging, airconditioning, elektrische systemen en motorwerk. We behandelen zowel binnenlandse als importvoertuigen."
+    }
+  },
+  "about": {
+    "block": {
+      "COMPLETE_COVERAGE_AREA": "Volledig Dekkingsgebied",
+      "COVERAGE_DESCRIPTION": "We bedienen met trots Brussel en alle omliggende gebieden binnen een straal van 100 km. Of u nu mobiele service op uw locatie nodig heeft of liever onze garage bezoekt, we zijn er om u te helpen waar u ook bent.",
+      "BRUSSELS_METROPOLITAN_AREA": "Brussels Metropolitaan Gebied",
+      "MOBILE_SERVICE_AVAILABLE": "Mobiele Service Beschikbaar",
+      "EMERGENCY_SERVICE_247": "24/7 Noodservice",
+      "FULLY_INSURED_LICENSED": "Volledig Verzekerd & Gelicentieerd",
+      "BRUSSELS": "Brussel",
+      "COVERAGE_RADIUS": "100km Straal"
+    },
+    "title": "Over CarAid",
+    "description": "Gebaseerd op 20 jaar automotive expertise, is CarAid uw vertrouwde partner voor complete autoverzorging. We combineren traditionele mechanische kennis met moderne diagnostische gereedschappen om betrouwbare, handige automotive services te bieden in de hele Brusselse regio.",
+    "stats": {
+      "experience": "Jaar Ervaring",
+      "serviceRadius": "km Service Radius",
+      "satisfaction": "Klanttevredenheid",
+      "availability": "Service Beschikbaarheid"
+    },
+    "whyChooseUs": "Waarom CarAid Kiezen?",
+    "reasons": {
+      "expertise": {
+        "title": "20+ Jaar Ervaring",
+        "description": "Uitgebreide automotive ervaring met alle merken en modellen, van routineonderhoud tot complexe reparaties."
+      },
+      "convenience": {
+        "title": "Flexibele Service Opties",
+        "description": "Kies tussen onze mobiele service die naar u toekomt of bezoek onze volledig uitgeruste garage faciliteit."
+      },
+      "quality": {
+        "title": "Professionele Kwaliteit",
+        "description": "We gebruiken professionele gereedschappen en originele onderdelen om ervoor te zorgen dat uw voertuig de hoogste kwaliteit service ontvangt."
+      },
+      "reliability": {
+        "title": "Betrouwbaar & Vertrouwd",
+        "description": "Transparante prijzen, eerlijke diagnostiek en betrouwbare service waarop u kunt rekenen voor al uw automotive behoeften."
+      }
+    }
+  },
+  "experience": {
+    "title": "Onze Ervaring",
+    "description": "Twee decennia hands-on automotive ervaring over alle voertuigtypes en reparatiescenario's",
+    "cta": {
+      "title": "Klaar om Uw Voertuig te Onderhouden?",
+      "description": "Ervaar het gemak en de kwaliteit van professionele autoverzorging die naar u toekomt.",
+      "startProject": "Service Nu Boeken",
+      "viewServices": "Alle Diensten Bekijken"
+    }
+  },
+  "portfolio": {
+    "title": "Onze Diensten in Actie",
+    "description": "Van routineonderhoud tot noodreparaties, zie hoe we voertuigen veilig en efficiënt rijdend houden"
+  },
+  "team": {
+    "title": "Ontmoet Onze Oprichter",
+    "description": "Professionele automotive expertise waarin u kunt vertrouwen voor al uw voertuigverzorgingsbehoeften",
+    "founder": {
+      "name": "Souhail AIT SAID",
+      "title": "Oprichter & Meester Monteur",
+      "experience": "20+ Jaar Automotive Ervaring",
+      "specializations": [
+        "Motor Diagnostiek & Reparatie",
+        "Elektrische Systemen",
+        "Rem- & Ophangingssystemen",
+        "Preventief Onderhoud",
+        "Nood Pechhulp",
+        "Import & Binnenlandse Voertuigen"
+      ],
+      "description": "Met meer dan 20 jaar hands-on automotive ervaring heeft Souhail CarAid gebouwd op een fundament van technische expertise, betrouwbaarheid en klantenservice. Zijn passie voor automotive technologie en toewijding aan kwaliteit zorgt ervoor dat elk voertuig professionele zorg ontvangt.",
+      "credentials": "ASE Gecertificeerd • Professionele Gereedschappen & Uitrusting • Continue Training"
+    }
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "description": "Klaar om uw autoservice in te plannen? Neem contact met ons op voor mobiele service of garage afspraken in de Brusselse regio.",
+    "getInTouch": "Contactinformatie",
+    "serviceArea": "Servicegebied",
+    "serviceAreaDescription": "Brussel en omgeving binnen 100km radius",
+    "hours": "Service Uren",
+    "hoursDescription": "Maandag - Vrijdag: 8:00 - 18:00\nZaterdag: 9:00 - 16:00\nNoodservice: 24/7",
+    "phone": "Telefoon",
+    "email": "Email",
+    "location": "Garage Locatie",
+    "form": {
+      "name": "Uw Naam",
+      "email": "Email Adres",
+      "subject": "Service Type",
+      "message": "Bericht / Voertuig Details",
+      "send": "Verstuur Bericht",
+      "sending": "Versturen...",
+      "success": "Bericht succesvol verzonden!",
+      "error": "Bericht versturen mislukt. Probeer opnieuw."
+    }
+  },
+  "footer": {
+    "company": {
+      "name": "CarAid",
+      "tagline": "Professionele Autoverzorging"
+    },
+    "description": "Uw vertrouwde partner voor complete autoverzorging, waar u het nodig heeft. Professionele automotive services met 20+ jaar ervaring.",
+    "serviceArea": "Servicegebied: Brussel & 100km radius",
+    "quickLinks": "Snelle Links",
+    "services": {
+      "title": "Onze Diensten",
+      "mobile": "Mobiele Autoservice",
+      "garage": "Garage Reparaties",
+      "maintenance": "Preventief Onderhoud",
+      "emergency": "Noodhulp",
+      "diagnostics": "Geavanceerde Diagnostiek",
+      "specialized": "Gespecialiseerde Reparaties"
+    },
+    "contact": {
+      "phone": "+32 XXX XX XX XX",
+      "email": "contact@caraid.be",
+      "emergency": "24/7 Noodservice"
+    },
+    "followUs": "Volg Ons",
+    "rights": "Alle rechten voorbehouden.",
+    "copyright": {
+      "subtitle": "Professionele Automotive Services | Brussel, België"
+    },
+    "emergency": {
+      "title": "Noodhulp",
+      "description": "24/7 beschikbaar voor urgente reparaties en pech",
+      "callNow": "Nu Bellen"
+    }
+  }
+}
